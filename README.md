@@ -3,8 +3,8 @@
 I am a recent graduate from the University of Oklahoma with a master's in data science and analytics. 
 
 - I worked at the university as a graduate teaching assistant, helping other graduate students learn R, Ampl, and Python in order to clean and transform data, make models, and draw insightful conclusions from their work
-- Experience working with regression, classification, and forecasting
-- Currently working on learning Power BI and how make dashboards and effective visualizations
+- Experience working with regression, classification, and forecasting based models
+- Currently working on learning Power BI and how to make dashboards with effective visualizations
   
 
 <!--
