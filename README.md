@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hello, I'm Jacob
+
+I am a recent graduate from the University of Oklahoma with a master's in data science and analytics. 
+
+- I worked at the university as a graduate teaching assistant, helping other graduate students learn R, Ampl, and Python in order to clean and transform data, make models, and draw insightful conclusions from their work
+- Experience working with regression, classification, and forecasting
+- Currently working on learning Power BI and how make dashboards and effective visualizations
+  
 
 <!--
 **JoFlynn22/JoFlynn22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
